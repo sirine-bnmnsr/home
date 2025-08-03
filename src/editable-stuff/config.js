@@ -35,11 +35,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/sirinebnmnsr.png"),
+  imageLink: require("../editable-stuff/sirinebnmnsr.jpg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "Hey, I am Sirine, A Marketing Analyst with a Bachelor's in Business Analytics and Marketing, specializing in Performance Analysis (MTA, MMM, machine learning, causal inference) to support decision regarding ROAS, CAC, and LTV optimization with fluent English and a vibrant energy ^^",
+  resume: "https://docs.google.com/document/d/18kcQDze5XwZEfKZVi18CRCYbeKTKK3bS/edit?usp=sharing&ouid=116292805455666732976&rtpof=true&sd=true",
 };
 
 // PROJECTS SECTION
